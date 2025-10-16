@@ -142,7 +142,7 @@ if (["how are you", "how r u", "how are u", "how's it going", "kese ho", "kese h
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝐙𝐚𝐢𝐧𝐢-𝐉𝐮𝐭𝐭꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ℤ𝔸𝕀ℕ ℙℝ𝕀ℕℂ𝔼🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=100086033644262&mibextid=ZbWKwL \n👋For Any Kind Of Help Contact On Telegram  Username 👉 @zainijutt7😇", threadID);
+     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝒔𝒖𝒉𝒆𝒃 𝒌𝒉𝒂𝒏꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝑩𝒂𝒃𝒖 𝒋𝒊🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/profile.php?id=100014814015507&mibextid=ZbWKwL \n👋For Any Kind Of Help Contact On Telegram  Username 👉 @babuji7😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
@@ -150,7 +150,7 @@ if (["how are you", "how r u", "how are u", "how's it going", "kese ho", "kese h
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon ha")) {
-     return api.sendMessage("He is zain. He Gives his name zain everywhare", threadID);
+     return api.sendMessage("He is suheb. He Gives his name babu ji everywhare", threadID);
    };
 
    if ((event.body.toLowerCase() == "shadi karoge") || (event.body.toLowerCase() == "mujhse shadi karoge?")) {
@@ -303,7 +303,7 @@ if ((event.body.toLowerCase() == "🥰") || (event.body.toLowerCase() == "😍")
    };
 
    if ((event.body.toLowerCase() == "&fuck") || (event.body.toLowerCase() == "&Fuck")) {
-     return api.sendMessage("🏔️🏝️Priyansh Ƞɛ ꌗƥɛçɪɑɭɭɣ Ƭuɱ 🌊🪺Jɑɪʂɛ Ƭɧɑɽƙɪɣɵ Ƙɛ Ɬɪɣɛ•• 🏞️🌬️Ɣɑɧ çɵɱɱɑƞɗ Ɦɑʈɑ Ɗɪɣɑ Ɦɑɪ↗↘ Sɵɽɽɣ Ɠɣuʂ••😹🫶", threadID);
+     return api.sendMessage("🏔️🏝️𝕊𝕌ℍ𝔼𝔹 Ƞɛ ꌗƥɛçɪɑɭɭɣ Ƭuɱ 🌊🪺Jɑɪʂɛ Ƭɧɑɽƙɪɣɵ Ƙɛ Ɬɪɣɛ•• 🏞️🌬️Ɣɑɧ çɵɱɱɑƞɗ Ɦɑʈɑ Ɗɪɣɑ Ɦɑɪ↗↘ Sɵɽɽɣ Ɠɣuʂ••😹🫶", threadID);
    };
 
   if ((event.body.toLowerCase() == "😵‍💫")) {
@@ -844,7 +844,7 @@ if ((event.body.toLowerCase() == "🥑")) {
 
 var msg = {
   body: `╭─═⊰❖⊱═─╮
-│ 🤖 ʙᴏᴛ: 𝑅𝐷𝑋 𝐵𝒪𝒯
+│ 𝐁𝐎𝐓 𝐊𝐈𝐍𝐆 2.0
 ╰─═⊰❖⊱═─╯
 
 ╔═══════🌸═══════╗
@@ -854,9 +854,9 @@ var msg = {
   "${rand}"     
                             
 ╠═══════🌺═══════╣
-║ ✦ ░▒ 𝓞𝓦𝓝𝓔𝓡 ▒░ ✦     
+║ ✦ ░▒ 𝑩𝑨𝑩𝑼 𝑱𝑰 ▒░ ✦     
 ╠═══════🏵️═══════╣
-║ ⊰❀ 𝕊𝕒𝕣𝕕𝕒𝕣 𝕽𝕯𝕏 ❀⊱    
+║ ⊰❀ 𝐒𝐔𝐇𝐄𝐁 𝐊𝐇𝐀𝐍 ❀⊱    
 ╚═══════🍄═══════╝`
 }
   return api.sendMessage(msg, threadID, messageID);
